@@ -165,7 +165,34 @@ if __name__ == '__main__':
 ```
 ### 输出结果
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1222/155122_94ae0e12_1648159.png "屏幕截图.png")
-    
+
+* 人流量检测代码
+```
+# encoding:utf-8
+
+import requests
+import base64
+
+'''
+人流量统计
+'''
+
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/body_num"
+# 二进制方式打开图片文件
+f = open('很多人.jfif', 'rb')
+img = base64.b64encode(f.read())
+
+params = {"image":img}
+access_token = '[24.b9cdc15b2954d18cd35a26778e38cc25.2592000.1579593802.282335-18083886]'
+request_url = request_url + "?access_token=" + access_token
+headers = {'content-type': 'application/x-www-form-urlencoded'}
+response = requests.post(request_url, data=params, headers=headers)
+if response:
+    print (response.json())
+ ```
+ * 输出结果
+ {'person_num': 16, 'log_id': 1311940341882461334}
+ ![人流量](https://images.gitee.com/uploads/images/2019/1222/161049_e6906e65_1648159.png "屏幕截图.png")
    
    
    
