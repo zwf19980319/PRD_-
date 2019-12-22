@@ -161,7 +161,13 @@ if __name__ == '__main__':
         print("tts api  error:" + result_str)
 
     print("result saved as :" + save_file)
-    ``` python
-         * 输出结果
-         ![语音输出](https://images.gitee.com/uploads/images/2019/1222/155122_94ae0e12_1648159.png "屏幕截图.png")
+    
+```
+### 输出结果
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1222/155122_94ae0e12_1648159.png "屏幕截图.png")
+    
+   
+   
+   
+   
     
