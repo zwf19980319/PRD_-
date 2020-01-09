@@ -244,7 +244,7 @@ if response:
 * [百度翻译AI代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91AI)
 * [百度语音合成AI代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [百度人流量检测AI代码](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E4%BA%BA%E6%B5%81%E9%87%8F%E6%A3%80%E6%B5%8B%E4%BB%A3%E7%A0%81)
-   
+* [原型文档]( http://nfunm171013102.gitee.io/museum_prototype)  
    
    
    
