@@ -52,8 +52,11 @@
 # 原型文档
 * 界面设计
 ![界面设计](https://images.gitee.com/uploads/images/2020/0109/152000_e0466c98_1648159.png "屏幕截图.png")
-![功能](https://images.gitee.com/uploads/images/2020/0109/152052_128896a9_1648159.png "屏幕截图.png")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/152052_128896a9_1648159.png "屏幕截图.png")
+
 ![人流量](https://images.gitee.com/uploads/images/2020/0109/152149_1d78a346_1648159.png "屏幕截图.png")
+
 ![语音](https://images.gitee.com/uploads/images/2020/0109/152223_0ae7c85d_1648159.png "屏幕截图.png")
 # API产品使用关键AI或机器学习之API的输出入展示
 ## 使用水平
