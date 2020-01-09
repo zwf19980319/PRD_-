@@ -210,7 +210,8 @@ if response:
  ```
  * 输出结果
  {'person_num': 16, 'log_id': 1311940341882461334}
- ![人流量](https://images.gitee.com/uploads/images/2019/1222/161049_e6906e65_1648159.png "屏幕截图.png")
+![代码人流量](https://images.gitee.com/uploads/images/2020/0109/220227_f91e2f30_1648159.png "屏幕截图.png")
+
  
  * 百度翻译API
  
