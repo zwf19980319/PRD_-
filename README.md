@@ -252,7 +252,7 @@ if response:
 本产品的辅助API使用百度AI的语音合成功能，语音合成一篇481个字的儿童故事，需要105秒，发音准确，语调语速都可以满足幼年儿童的需求，同时用户可以根据自己的喜好选择发音人的语速语调声音。
 * 语音识别：在说话人发音不标准的情况下，语音识别的准确率不高。 语音合成：对比了百度、讯飞、微软三家的产品后，三家公司在语音合成上的准确率都挺高，不过讯飞回应的速度是快于另外两家的。
 
-# 加分项
+# 加分项（如若不高清，上方还有代码模块输出和输入）
 * [百度翻译AI代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91AI)
 * [百度语音合成AI代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [百度人流量检测AI代码](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E4%BA%BA%E6%B5%81%E9%87%8F%E6%A3%80%E6%B5%8B%E4%BB%A3%E7%A0%81)
